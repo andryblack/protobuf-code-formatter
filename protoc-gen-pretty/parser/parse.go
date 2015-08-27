@@ -33,7 +33,7 @@ import (
 	"strings"
 )
 import "github.com/DirkBrand/protobuf-code-formatter/protoc-gen-pretty/descriptor"
-import "code.google.com/p/gogoprotobuf/proto"
+import "github.com/golang/protobuf"
 
 type errCmd struct {
 	output []byte

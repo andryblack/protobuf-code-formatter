@@ -32,7 +32,7 @@ import (
 	"os/exec"
 	"strings"
 )
-import "github.com/DirkBrand/protobuf-code-formatter/protoc-gen-pretty/descriptor"
+import "github.com/andryblack/protobuf-code-formatter/protoc-gen-pretty/descriptor"
 import "github.com/golang/protobuf"
 
 type errCmd struct {

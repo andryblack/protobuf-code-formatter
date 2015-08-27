@@ -29,7 +29,7 @@ import (
 	"errors"
 	"flag"
 	"fmt"
-	parser "github.com/DirkBrand/protobuf-code-formatter/protoc-gen-pretty/parser"
+	parser "github.com/andryblack/protobuf-code-formatter/protoc-gen-pretty/parser"
 	"os"
 	"path/filepath"
 	"strings"
